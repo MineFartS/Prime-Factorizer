@@ -1,4 +1,4 @@
-from server import *
+from philh_myftp.biz import *
 
 log = lambda p1, p2, factor: pc.print(
     p1, '*', p2, '=', factor,
@@ -58,3 +58,4 @@ def PrimeFactorizer(semiprime:int):
                 db.factors += factors
 
                 return p1, p2
+
