@@ -4,20 +4,6 @@ Prime Factorizer
 
 <hr>
 
-<h2>
-Please Note:
-</h2>
-
-<h4>
-This script requires the <a href="https://github.com/MineFartS/Server-Package">Server Package</a> to be installed.
-</h4>
-
-<h4>
-I will try to create a standalone version soon.
-</h4>
-
-<hr>
-
 <h3>
 Overview:
 </h3>
