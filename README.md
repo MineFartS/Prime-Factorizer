@@ -39,11 +39,11 @@ Features:
 ```
 from prime_factorizer import *
 
-semiprime = 14
+semiprime = 21
 p1, p2 = PrimeFactorizer(semiprime)
 
 ```
 
 ```
-> python -m prime_factorizer run 14
+> python -m prime_factorizer run 21
 ```
