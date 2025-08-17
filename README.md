@@ -29,3 +29,21 @@ Features:
 - Prime Factorization
     - It caches all attempts in a json file, and scans the cache before guessing
     - Shuffles all potential primes to improve the speed of calculating larger semiprimes
+ 
+<hr>
+
+<h2>How To Use:</h2>
+
+`pip install git+https://github.com/MineFartS/Prime-Factorizer`
+
+```
+from prime_factorizer import *
+
+semiprime = 14
+p1, p2 = PrimeFactorizer(semiprime)
+
+```
+
+```
+> python -m prime_factorizer run 14
+```
